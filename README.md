@@ -8,7 +8,7 @@
 name: "Rachel (Violetann894)"
 located_in: "New Jersey, United States"
 
-education: "Current Computer Science Student at Stockton University"
+education: "Computer Science Student at Stockton University"
 
 current_classes:
   [
