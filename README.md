@@ -5,8 +5,8 @@
 <h2 align="center"> 🌟 Here's a little bit about me! 🌟</h2>
 
 ```yaml
-name: Rachel
-located_in: New Jersey, United States
+name: "Rachel"
+located_in: "New Jersey, United States"
 
 education: "Current Computer Science Student at Stockton University"
 
