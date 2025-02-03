@@ -25,7 +25,7 @@ fields_of_interest:
     "Computer Networking"
   ]
 
-currently_learning: ["Python and Networking Protocols"]
+currently_learning: ["Python", "Networking Protocols"]
 hobbies: ["Gaming", "Spending time with friends and family"]
 ```
 
