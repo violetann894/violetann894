@@ -26,7 +26,7 @@ fields_of_interest:
   ]
 
 currently_learning: ["Python and Networking Protocols"]
-hobbies: ["Gaming", "Spending time with friends and family", "Learning"]
+hobbies: ["Gaming", "Spending time with friends and family"]
 ```
 
 <p align="center">
