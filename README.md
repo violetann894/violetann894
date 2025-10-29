@@ -20,7 +20,7 @@ current_classes:
 
 fields_of_interest:
   [
-    "Cybersecuirty",
+    "Cybersecurity",
     "Software Engineering",
     "Computer Networking"
   ]
