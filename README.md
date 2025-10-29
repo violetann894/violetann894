@@ -12,10 +12,10 @@ education: "Computer Science Student at Stockton University"
 
 current_classes:
   [
-    "CIST 3230 Computer Networking Principles"
-    "CSCI 3327 Probability and Applied Statistics"
-    "CSCI 4104 Data Structures and Algorithms II"
-    "GSS 2121 Argument and Persuasion in the Social Sciences"
+    "CIST 3222 Database Systems"
+    "GIS 4635 Honors: Ethics & Contemporary Life"
+    "CIST 3381 Information Assurance and Security"
+    "CSCI 4485 Software Engineering"
   ]
 
 fields_of_interest:
