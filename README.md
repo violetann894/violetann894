@@ -12,10 +12,10 @@ education: "Computer Science Student at Stockton University"
 
 current_classes:
   [
-    "CIST 3222 Database Systems"
-    "GIS 4635 Honors: Ethics & Contemporary Life"
-    "CIST 3381 Information Assurance and Security"
-    "CSCI 4485 Software Engineering"
+    "CSCI 4105: Knowledge Discovery and Data Mining"
+    "CSCI 4463: Artificial Intelligence"
+    "CSCI 4600: Senior Seminar"
+    "GNM 2261: Honors: Introduction to Pollution"
   ]
 
 fields_of_interest:
