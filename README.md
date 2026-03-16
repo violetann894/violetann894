@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,&height=150&section=header&text=Hello!&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,&height=150&section=header&text=Hello!&fontSize=40" />
 </p>
 
 <h2 align="center"> 🌟 Here's a little bit about me! 🌟</h2>
@@ -30,5 +30,5 @@ hobbies: ["Gaming", "Spending time with friends and family"]
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=8&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=7&section=footer" />
 </p>
